@@ -1,2 +1,2 @@
 hello git
-More text
+More
